@@ -43,7 +43,7 @@ const Navbar = () => {
   );
 };
 
-const Wrapper = styled.section`
+export const Wrapper = styled.section`
   nav {
     margin: 3rem 0;
     background: #f9f9f9;
